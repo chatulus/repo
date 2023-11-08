@@ -4,11 +4,11 @@
   "apps": [
     {
       "name": "Chatulus",
-      "bundleIdentifier": "com.gfhg.chatulus",
+      "bundleIdentifier": "org.chatulus.client",
       "developerName": "Chatulus Team",
       "subtitle": "Customizable messaging platform you can trust",
       "version": "1.0",
-      "versionDate": "2023-11-05",
+      "versionDate": "2023-11-08",
       "versionDescription": "For full release details visit: https://chat.1us.ca/releases",
       "downloadURL": "https://github.com/chatulus/repo/releases/latest/download/Chatulus.ipa",
       "size": 830624,
